@@ -1,0 +1,23 @@
+@import url(./styles/header.css);
+@import url(./styles/marcas.css);
+@import url(./styles/departementos.css);
+/*@import url(./styles/produtos.css);*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', sans-serif;
+}
+html {
+    font-family: Montserrat,  sans-serif;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
